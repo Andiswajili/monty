@@ -1,6 +1,6 @@
 #include "monty.h"
 
-/**
+//**
  * _pop - function that removes the top element of the stack.
  * @stack: double pointer to the head of stack
  * @line_number: script line number.
@@ -10,7 +10,7 @@
  * and exit with the status EXIT_FAILURE .
  *
  * Return: No return.
- */
+ *//
 
 void _pop(stack_t **stack, unsigned int line_number)
 {
